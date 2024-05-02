@@ -1,6 +1,8 @@
 # DSC-511 PROJECT
 ## Classification of Argentina properties (rent/sale)
 
+Data link -> https://drive.google.com/drive/folders/1N-0u6lzu6y1OomCmghgIMdsJ6QffJMna?usp=drive_link
+
 Dataset Description:
 --------------------
 The dataset contains information about house sales and rent. The columns are:
