@@ -2,6 +2,15 @@
 ## Classification of Argentina properties (rent/sale)
 
 Data link -> https://drive.google.com/drive/folders/1rj2_1tq-roAhYP5mDtbFghAWh6P21vx7?usp=sharing
+---------
+
+The jupyter files follow the followin order:
+--------------------------------------------
+1. preprocessing_done_final
+2. EDA_Argentina_house_pynb
+3. Text_Analytics_final
+4. MachineLearning_Rent & -----------------
+5. RS_FINAL
 
 Dataset Description:
 --------------------
