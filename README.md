@@ -1,7 +1,7 @@
 # DSC-511 PROJECT
 ## Classification of Argentina properties (rent/sale)
 
-Data link -> https://drive.google.com/drive/folders/1N-0u6lzu6y1OomCmghgIMdsJ6QffJMna?usp=drive_link
+Data link -> https://drive.google.com/drive/folders/1rj2_1tq-roAhYP5mDtbFghAWh6P21vx7?usp=sharing
 
 Dataset Description:
 --------------------
